@@ -1,0 +1,35 @@
+{
+    "botVoice": "",
+
+    "token": "",
+    "prefix": "",
+    "sahip": "",
+
+
+    "erkekRolleri": ["","",""],
+    "erkek1": "",
+    "kızRolleri": ["","",""],
+    "kız1": "",
+
+    "kayıtcıRolü": "",
+    "kayıtsızRolü": "",
+    "şüpheliRol": "",
+
+    "familyRolü": "",
+    "vipRolü": "",
+    "boosterRolü": "",
+
+    "registerChat": "",
+    "kurallar": "",
+
+    "guildID": "",
+    "tag": "",
+    "unTag": "",
+
+    "yes": "",
+    "no": "",
+
+    "erkekEmoji": "♂",
+    "kızEmoji": "♀"
+
+}
